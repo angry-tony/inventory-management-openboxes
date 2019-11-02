@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/openboxes/openboxes#readme",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "bootstrap": "4.3.1",
     "final-form": "4.9.1",
     "final-form-arrays": "1.0.4",
